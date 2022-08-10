@@ -37,13 +37,11 @@ MATERIAL Y EQUIPO REQUERIDO.
 
 3.1.1 Calcular la intensidad I que pasará por la resistencia 5Ω utilizndo Thevenin.
 
-![image](https://user-images.githubusercontent.com/105722861/184039427-13f85737-b73d-4238-95a3-63990d1cf0d2.png)
+![image](https://user-images.githubusercontent.com/105722861/184040855-f5a53757-0c9c-4c49-867c-0b36a4097a56.png)
 
-![image](https://user-images.githubusercontent.com/105722861/184039784-f5bdab88-39be-4301-a84a-73be13ca1059.png)
+![image](https://user-images.githubusercontent.com/105722861/184040697-9ec0631d-332e-4b70-a98b-56e30e620b77.png)
 
-
-
-
+![image](https://user-images.githubusercontent.com/105722861/184040370-9d1ddef7-790f-4c2e-bf4f-751ff277a34b.png)
 
 -----------------------------------------------------------------------------------------------
 3.2 Armar el segundo circuito 
