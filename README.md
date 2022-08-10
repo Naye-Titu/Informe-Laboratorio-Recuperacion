@@ -33,6 +33,13 @@ MATERIAL Y EQUIPO REQUERIDO.
 
 ![image](https://user-images.githubusercontent.com/105722861/184029952-88c65a0d-ecff-4abe-8428-b00ec938a60f.png)
 
+3.2 Armar el segundo circuito 
+
+![image](https://user-images.githubusercontent.com/105722861/184032860-4d29f922-1220-42da-a424-2c3cb839d712.png)
+
+3.3 Armar el tercer circuito 
+
+![image](https://user-images.githubusercontent.com/105722861/184035409-4f89df5c-a308-488d-9a6e-4017897c6664.png)
 
 
 
