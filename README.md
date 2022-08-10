@@ -27,6 +27,12 @@ Tema: Aplicación del Teorema de Thévenin y Superposición.
 
 MATERIAL Y EQUIPO REQUERIDO.
 
+![image](https://user-images.githubusercontent.com/105722861/184028298-3755cf3c-2682-4993-916d-ea50053529a9.png)
+
+3.1 Armar el primer circuito 
+
+![image](https://user-images.githubusercontent.com/105722861/184029952-88c65a0d-ecff-4abe-8428-b00ec938a60f.png)
+
 
 
 
