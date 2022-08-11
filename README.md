@@ -73,6 +73,16 @@ P= 3.78*8.32
 
 ![image](https://user-images.githubusercontent.com/105722861/184035409-4f89df5c-a308-488d-9a6e-4017897c6664.png)
 
+3.1.1 Encontrar la corriente y el voltaje a través de a resistencia de 12Ω mediante el teorema de superposición.
 
+![image](https://user-images.githubusercontent.com/105722861/184051749-968a96bc-499a-4514-a4d0-830ed6d846e3.png)
+
+![image](https://user-images.githubusercontent.com/105722861/184051896-bb4e9f99-e989-4b54-bc08-4b3ce8672158.png)
+
+![image](https://user-images.githubusercontent.com/105722861/184051976-3b085e6e-d390-47ba-ba2c-92fa88bc7003.png)
+
+I= 500-400
+
+*I= 100mA
 
 
