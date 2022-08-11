@@ -12,13 +12,22 @@ Tema: Aplicación del Teorema de Thévenin y Superposición.
 
 1.- OBJETIVOS.
 
-+ Objetivo general.
+Objetivo general.
 
+* Aplicar el Teorema de Thévenin y de Superposición en los circuitos para poder reconocer de mejor manera el funcionamiento y eficiencia del simualdor.
 
-+ Objetivo específicos.
+Objetivo específicos.
+
+* Observar la factibilidad del Teorema de Thévenin, aplicado en el análisis de un circuito mixto
+
+* Determinar el valor de voltaje y corriente en una resistencia determinada, aplicando el Teorema de Thévenin
+
+* Evaluar el voltaje y corriente por separado del circuito aplicando el teorema de superposición.
+
+* Analizar de manera correcta la corriente o el voltaje en cualquier rama de un circuito estimulado por varias fuentes de energía, ya sean de corriente o de voltaje.
 
 2.- MARCO TEORICO.
-
+ 
 ![image](https://user-images.githubusercontent.com/105722861/183536616-4737ebfc-11b9-4c92-af02-48116ef0e886.png)
 
 ![image](https://user-images.githubusercontent.com/105722861/183550690-e549f3e9-8487-4561-99b0-03179b18bc67.png)
@@ -93,4 +102,20 @@ I= 500-400
 
 * I= 100mA
 
+4.- VIDEO.
 
+5.- CONCLUSIONES.
+
+* Para concluir el voltaje equivalente de Thévenin (VTH) es el voltaje de circuito abierto (sin carga) presente entre dos terminales de salida, mientras que la resistencia equivalente de Thévenin (RTH) es la resistencia total que aparece entre dos terminales.
+
+* El teorema de superposición es de gran utilidad para analizar circuitos que tengan dos o más fuentes, ya que al analizarlo fuente por fuente el análisis resultara más sencillo de realizar.
+
+* Las fuentes de voltaje igualadas a cero equivalen a un corto circuito, mientras que las fuentes de corriente igualadas a cero equivalen a un circuito abierto. Gracias a esto se puedo encontrar de manera simplificada el voltaje y la corriente requerida.
+
+6.- BIBLIOGRAFÍA.
+
+* Floyd, T. (2007). Principios de circuitos eléctricos (8va ed), México DF, México: Pearson Educación.
+
+* Hernández, M. (19 de Abril de 2019). Análisis de circuitos y sistemas lineales . Obtenido de Teorema de superposición: https://innovacionumh.es/Proyectos/P_19/Tema_1/UMH_05.htm
+
+* Willy, M. (28 de Junio de 2017). Khan Academy. Obtenido de Superposición: https://es.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-dc-circuit-analysis/a/ee-superposition
