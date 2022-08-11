@@ -51,6 +51,22 @@ MATERIAL Y EQUIPO REQUERIDO.
 
 ![image](https://user-images.githubusercontent.com/105722861/184032860-4d29f922-1220-42da-a424-2c3cb839d712.png)
 
+3.2.1 Empleando el circuito de Thévenin determine la potencia suministrada a la resistencia R3.
+
+Emplee el vatímetro para determinar la potencia 
+
+![image](https://user-images.githubusercontent.com/105722861/184048594-e007d90c-66a3-4853-848c-c53f2a2b0609.png)
+
+![image](https://user-images.githubusercontent.com/105722861/184048514-d7e5f323-79fb-4741-949b-9ded5bf27bd8.png)
+
+![image](https://user-images.githubusercontent.com/105722861/184048319-db166e42-60b2-4cb9-9e8d-6aa81597677c.png)
+
+P=I*V
+
+P= 3.78*8.32
+
+P= 31.44mw
+
 -----------------------------------------------------------------------------------------------
 3.3 Armar el tercer circuito 
 -----------------------------------------------------------------------------------------------
