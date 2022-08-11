@@ -41,7 +41,11 @@ MATERIAL Y EQUIPO REQUERIDO.
 
 ![image](https://user-images.githubusercontent.com/105722861/184040697-9ec0631d-332e-4b70-a98b-56e30e620b77.png)
 
+* VTH= 10v
+
 ![image](https://user-images.githubusercontent.com/105722861/184040370-9d1ddef7-790f-4c2e-bf4f-751ff277a34b.png)
+
+* RTH= 5Ω
 
 ![image](https://user-images.githubusercontent.com/105722861/184043265-db3b6981-cbb9-43bc-b79a-bf2f14786aed.png)
 
@@ -57,15 +61,19 @@ Emplee el vatímetro para determinar la potencia
 
 ![image](https://user-images.githubusercontent.com/105722861/184048594-e007d90c-66a3-4853-848c-c53f2a2b0609.png)
 
+* VTH= 8.32v
+
 ![image](https://user-images.githubusercontent.com/105722861/184048514-d7e5f323-79fb-4741-949b-9ded5bf27bd8.png)
+
+* RTH= 4.7KΩ
 
 ![image](https://user-images.githubusercontent.com/105722861/184048319-db166e42-60b2-4cb9-9e8d-6aa81597677c.png)
 
 P=I*V
 
-P= 3.78*8.32
+P= (-3.78)* (-8.32)
 
-*P= 31.44mw
+* P= 31.44mw
 
 -----------------------------------------------------------------------------------------------
 3.3 Armar el tercer circuito 
@@ -73,7 +81,7 @@ P= 3.78*8.32
 
 ![image](https://user-images.githubusercontent.com/105722861/184035409-4f89df5c-a308-488d-9a6e-4017897c6664.png)
 
-3.1.1 Encontrar la corriente y el voltaje a través de a resistencia de 12Ω mediante el teorema de superposición.
+3.3.1 Encontrar la corriente y el voltaje a través de a resistencia de 12Ω mediante el teorema de superposición.
 
 ![image](https://user-images.githubusercontent.com/105722861/184051749-968a96bc-499a-4514-a4d0-830ed6d846e3.png)
 
@@ -83,6 +91,6 @@ P= 3.78*8.32
 
 I= 500-400
 
-*I= 100mA
+* I= 100mA
 
 
