@@ -43,6 +43,8 @@ MATERIAL Y EQUIPO REQUERIDO.
 
 ![image](https://user-images.githubusercontent.com/105722861/184040370-9d1ddef7-790f-4c2e-bf4f-751ff277a34b.png)
 
+![image](https://user-images.githubusercontent.com/105722861/184043265-db3b6981-cbb9-43bc-b79a-bf2f14786aed.png)
+
 -----------------------------------------------------------------------------------------------
 3.2 Armar el segundo circuito 
 -----------------------------------------------------------------------------------------------
